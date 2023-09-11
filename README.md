@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @malakai-a1
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Computer Science
